@@ -1,0 +1,17 @@
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\obj\Debug\kolko-i-krzyzyk.csprojAssemblyReference.cache
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\obj\Debug\MainWindow.g.cs
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\obj\Debug\App.g.cs
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\obj\Debug\kolko-i-krzyzyk_MarkupCompile.cache
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\obj\Debug\kolko-i-krzyzyk_MarkupCompile.lref
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\bin\Debug\kolko-i-krzyzyk.exe.config
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\bin\Debug\kolko-i-krzyzyk.exe
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\bin\Debug\kolko-i-krzyzyk.pdb
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\obj\Debug\MainWindow.baml
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\obj\Debug\kolko-i-krzyzyk.g.resources
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\obj\Debug\kolko_i_krzyzyk.Properties.Resources.resources
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\obj\Debug\kolko-i-krzyzyk.csproj.GenerateResource.cache
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\obj\Debug\kolko-i-krzyzyk.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\obj\Debug\kolko-i-krzyzyk.exe
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\obj\Debug\kolko-i-krzyzyk.pdb
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\obj\Debug\Game.g.cs
+C:\Users\Mateusz\Documents\GitHub\gra-kolko-i-krzyzyk\kolko-i-krzyzyk\kolko-i-krzyzyk\obj\Debug\Game.baml
