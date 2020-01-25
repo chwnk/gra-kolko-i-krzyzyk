@@ -29,7 +29,6 @@ namespace kolko_i_krzyzyk
         public int player2 { get; set; }
         public int draw { get; set; }
 
-
         public Game()
         {
             InitializeComponent();

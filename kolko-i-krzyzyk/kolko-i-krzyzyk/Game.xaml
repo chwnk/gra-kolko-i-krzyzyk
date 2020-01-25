@@ -11,7 +11,7 @@
             <Setter Property="FontSize" Value="50"/>
         </Style>
     </Window.Resources>
-    <Grid>
+    <Grid Background="LightSlateGray">
         <Grid x:Name="container">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="80"/>
@@ -59,13 +59,14 @@
             <Button Click="Button_Click" x:Name="button43" Grid.Column="4" Grid.Row="3"/>
             <Button Click="Button_Click" x:Name="button44" Grid.Column="4" Grid.Row="4"/>
         </Grid>
+        
         <TextBlock HorizontalAlignment="Left" Margin="436,56,0,0" TextWrapping="Wrap" Text="Punktacja" VerticalAlignment="Top" Height="58" Width="173" FontSize="40"/>
-        <TextBlock HorizontalAlignment="Left" Margin="468,121,0,0" TextWrapping="Wrap" Text="Player 1" VerticalAlignment="Top"/>
-        <TextBlock HorizontalAlignment="Left" Margin="536,121,0,0" TextWrapping="Wrap" Text="Player 2" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="468,121,0,0" TextWrapping="Wrap" Text="Player X" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="536,121,0,0" TextWrapping="Wrap" Text="Player O" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="511,161,0,0" TextWrapping="Wrap" Text="Draw" VerticalAlignment="Top"/>
-        <Label x:Name="remis" Content="" HorizontalAlignment="Left" Margin="520,178,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="pl1" Content="" HorizontalAlignment="Left" Margin="552,140,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="pl2" Content="" HorizontalAlignment="Left" Margin="483,140,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="remis" Content="0" HorizontalAlignment="Left" Margin="520,178,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="pl1" Content="0" HorizontalAlignment="Left" Margin="552,140,0,0" VerticalAlignment="Top" Foreground="White"/>
+        <Label x:Name="pl2" Content="0" HorizontalAlignment="Left" Margin="483,140,0,0" VerticalAlignment="Top" Foreground="White"/>
 
 
     </Grid>
